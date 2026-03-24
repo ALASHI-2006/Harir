@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">gorgetstore</string>
+<string name="facebook_app_id">1338152410165157</string>
+<string name="fb_login_protocol_scheme">fb0813986c6067da2770c244ae82383152</string>
+<string name="facebook_client_token">a4202d3e6516784724754c8e4ff5dab6</string>
+
+</resources>

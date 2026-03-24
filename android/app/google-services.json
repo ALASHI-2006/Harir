@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "459038662972",
+    "firebase_url": "https://gorget-store-last-one-default-rtdb.firebaseio.com",
+    "project_id": "gorget-store-last-one",
+    "storage_bucket": "gorget-store-last-one.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459038662972:android:670c9638fbd7e793f6fe39",
+        "android_client_info": {
+          "package_name": "com.example.gorgetstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459038662972-oglv5h0eb9q8mrqhdrv7pq3qr5foq0ht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gorgetstore",
+            "certificate_hash": "9f79e7bdbae6e7566cfdd7cfbfe10c2328f4456f"
+          }
+        },
+        {
+          "client_id": "459038662972-qal41taihi0hkk8h0jl530ara7kkqtrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA68B83vERAiSxj-RE9HGwT4eDK3GhGWxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459038662972-56djaqd9bpu6uuacf6ds7pui4srds513.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "459038662972-c96bd2s0f9s6nu2sovl3s0idsejlj8ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gorgetstore"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459038662972:android:2fa51c3cb587314cf6fe39",
+        "android_client_info": {
+          "package_name": "harir.store.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459038662972-tj3b84h361t3d5mqr6q91t7vptd2262c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "harir.store.com",
+            "certificate_hash": "9f79e7bdbae6e7566cfdd7cfbfe10c2328f4456f"
+          }
+        },
+        {
+          "client_id": "459038662972-qal41taihi0hkk8h0jl530ara7kkqtrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA68B83vERAiSxj-RE9HGwT4eDK3GhGWxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459038662972-56djaqd9bpu6uuacf6ds7pui4srds513.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "459038662972-c96bd2s0f9s6nu2sovl3s0idsejlj8ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gorgetstore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
